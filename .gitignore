@@ -1,0 +1,15 @@
+*.tar
+*.tar.gz
+*.img
+*.iso
+*.qcow2
+*.vmdk
+*.raw
+*.bak
+*.log
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+secrets/
